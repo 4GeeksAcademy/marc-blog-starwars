@@ -8,7 +8,7 @@ export const Naves = () => {
 	return (
 		<>
 			<div>
-				<h1>Personajes</h1>
+				<h1>Naves</h1>
 				<div className="card" style={{ width: "18rem" }}>
 					<img src="..." className="card-img-top" alt="..." />
 					<div className="card-body">
